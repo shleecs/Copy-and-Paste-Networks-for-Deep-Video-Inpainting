@@ -5,6 +5,7 @@ Official pytorch implementation for "Copy-and-Paste Networks for Deep Video Inpa
 
 [Paper]
 
+### Video result
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BKdxR9bQQMU/0.jpg)](https://www.youtube.com/watch?v=BKdxR9bQQMU)
 
 ### Requirements
