@@ -12,7 +12,7 @@ Official pytorch implementation for "Copy-and-Paste Networks for Deep Video Inpa
 ### Download weights
 ```
 mkdir ./weight
-wget -O ./weight/weight.pth "https://drive.google.com/file/d/1tUeoalZ7J_4xWyJSw_cGvcJtZ9PJ-Nwy/view?usp=sharing"
+wget -O ./weight/weight.pth "https://www.dropbox.com/s/vbh12ay2ubrw3m9/weight.pth?dl=0"
 ```
 
 ### Run
