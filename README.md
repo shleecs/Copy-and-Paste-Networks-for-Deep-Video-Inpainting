@@ -3,7 +3,9 @@ Official pytorch implementation for "Copy-and-Paste Networks for Deep Video Inpa
 
 #### Sungho Lee, [Seoung Wug Oh](https://sites.google.com/view/seoungwugoh), DaeYeun Won, [Seon Joo Kim](https://sites.google.com/site/seonjookim/)
 
-[Paper] [[Video results](https://youtu.be/BKdxR9bQQMU)]
+[Paper]
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BKdxR9bQQMU/0.jpg)](https://www.youtube.com/watch?v=BKdxR9bQQMU)
 
 ### Requirements
 - python 3.6
