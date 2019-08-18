@@ -10,7 +10,7 @@ Official pytorch implementation for "Copy-and-Paste Networks for Deep Video Inpa
 
 ### Requirements
 - python 3.6
-- pytorch 0.4.0
+- pytorch 0.4
 
 ### Download weights
 ```
