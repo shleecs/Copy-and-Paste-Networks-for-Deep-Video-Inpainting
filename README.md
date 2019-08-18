@@ -23,8 +23,7 @@ wget -O ./weight/weight.pth "https://www.dropbox.com/s/vbh12ay2ubrw3m9/weight.pt
 python CPNet_test.py -g [gpu_num] -D [dataset_path]
 ```
 
-### Use
-This software is for non-commercial use only.
+### Reference
 
 If you use this code please cite:
 
@@ -36,3 +35,9 @@ booktitle = {International Conference on Computer Vision (ICCV)},
 year = {2019}
 }
 ```
+
+### Term of use
+
+This software is for non-commercial use only.
+The source code is released under the Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) Licence
+(see [this](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) for details)
