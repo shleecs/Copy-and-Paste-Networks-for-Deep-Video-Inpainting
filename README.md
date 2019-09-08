@@ -1,4 +1,4 @@
-# Copy-and-Paste-Networks-for-Deep-Video-Inpainting (ICCV 2019)
+# Copy-and-Paste Networks for Deep Video Inpainting (ICCV 2019)
 Official pytorch implementation for "Copy-and-Paste Networks for Deep Video Inpainting" (ICCV 2019) V.0.2
 
 #### [Sungho Lee](https://sites.google.com/view/sungholee), [Seoung Wug Oh](https://sites.google.com/view/seoungwugoh), DaeYeun Won and [Seon Joo Kim](https://sites.google.com/site/seonjookim/)
