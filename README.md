@@ -40,9 +40,9 @@ year = {2019}
 Onion-Peel Networks for Deep Video Completion
 Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim
 ICCV 2019
-
-[[Paper](https://arxiv.org/abs/1908.08718)] [[Github](https://github.com/seoungwugoh/opn-demo)]
 ```
+[[Paper](https://arxiv.org/abs/1908.08718)] [[Github](https://github.com/seoungwugoh/opn-demo)]
+
 
 ### Term of use
 
