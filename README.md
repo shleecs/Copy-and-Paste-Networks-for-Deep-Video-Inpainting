@@ -3,7 +3,7 @@ Official pytorch implementation for "Copy-and-Paste Networks for Deep Video Inpa
 
 #### [Sungho Lee](https://sites.google.com/view/sungholee), [Seoung Wug Oh](https://sites.google.com/view/seoungwugoh), DaeYeun Won and [Seon Joo Kim](https://sites.google.com/site/seonjookim/)
 
-[Paper](https://www.dropbox.com/s/mvf5j6z6ja0vdpj/2855.pdf?dl=1)
+[[Paper](https://www.dropbox.com/s/mvf5j6z6ja0vdpj/2855.pdf?dl=1)]
 
 ### Video result
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BKdxR9bQQMU/0.jpg)](https://www.youtube.com/watch?v=BKdxR9bQQMU)
@@ -34,6 +34,14 @@ title = {Copy-and-Paste Networks for Deep Video Inpainting},
 booktitle = {International Conference on Computer Vision (ICCV)},
 year = {2019}
 }
+```
+### Related works
+```
+Onion-Peel Networks for Deep Video Completion
+Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim
+ICCV 2019
+
+[[Paper](https://arxiv.org/abs/1908.08718)] [[Github](https://github.com/seoungwugoh/opn-demo)]
 ```
 
 ### Term of use
