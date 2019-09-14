@@ -36,6 +36,7 @@ year = {2019}
 }
 ```
 ### Related works
+Please check out our another approach for video inpainting.
 ```
 Onion-Peel Networks for Deep Video Completion
 Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim
